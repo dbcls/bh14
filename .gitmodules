@@ -1,3 +1,6 @@
 [submodule "rdfsummit"]
 	path = rdfsummit
 	url = https://github.com/dbcls/rdfsummit.git
+[submodule "coro"]
+	path = coro
+	url = https://github.com/leechuck/coro
