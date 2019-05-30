@@ -4,3 +4,6 @@
 [submodule "coro"]
 	path = coro
 	url = https://github.com/leechuck/coro
+[submodule "PRIDE2RDF"]
+	path = PRIDE2RDF
+	url = https://github.com/orenogithub/PRIDE2RDF.git
