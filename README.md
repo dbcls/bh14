@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/)](https://zenodo.org/badge/latestdoi/)
+[![DOI](https://zenodo.org/badge/19059953.svg)](https://zenodo.org/badge/latestdoi/19059953)
 
 # BioHackathon 2014 repository aggregation
 
