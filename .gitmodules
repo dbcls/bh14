@@ -1,0 +1,3 @@
+[submodule "rdfsummit"]
+	path = rdfsummit
+	url = https://github.com/dbcls/rdfsummit.git
