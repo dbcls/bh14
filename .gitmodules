@@ -10,3 +10,6 @@
 [submodule "GlycoRDF"]
 	path = GlycoRDF
 	url = https://github.com/ReneRanzinger/GlycoRDF.git
+[submodule "bio-sparql-otf"]
+	path = bio-sparql-otf
+	url = https://github.com/helios/bio-sparql-otf
